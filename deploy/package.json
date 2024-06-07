@@ -1,0 +1,14 @@
+{
+    "name": "CHU-D_Webserver_API",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "pkg": "pkg"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-http-proxy": "^1.6.0",
+        "pkg": "^4.4.6"
+    }
+}
